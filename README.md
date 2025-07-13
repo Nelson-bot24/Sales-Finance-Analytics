@@ -5,7 +5,7 @@ Developed a comprehensive Sales Analytics dashboard using Microsoft Excel to ana
 This repository contains the following Excel reports:
 
 Customer Report:
-Detailed sales data at the customer level, including total revenue, quantity sold, and customer segmentation.
+Detailed sales data at the customer level, including total revenue, quantity sold, and customer segmentation.(https://github.com/Nelson-bot24/Sales-Finance-Analytics/blob/6d7f00b004998f06519e3545b6de784688c489e5/Customer%20Report.pdf)
 
 Division-Level Report:
 Sales summary by business divisions, with key metrics like revenue contribution, unit sales, and performance trends.
