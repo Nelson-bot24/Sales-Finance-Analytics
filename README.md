@@ -34,4 +34,4 @@ Filterable visualizations
 Easy comparison across time and regions
 Actionable insights for decision-making
 📬 Contact
-For questions or collaboration, feel free to reach out to me on https://www.linkedin.com/in/muskaan-rana-2b31882ab/ or raise an issue in this repo.
+For questions or collaboration, feel free to reach out to me on  or raise an issue in this repo.
