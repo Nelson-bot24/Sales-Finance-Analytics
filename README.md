@@ -14,5 +14,6 @@ This project is focused on achieving the following key objectives:
  
 2.Market Performance and Sales Targets Comparison:
   - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
+
 3.Top 10 Sold Products:
   - Focus on both high-performing products to optimize inventory, enhance marketing efforts, and drive strategic product decisions.
