@@ -5,5 +5,13 @@ Atliq Hardware specializes in selling a wide range of hardware products, includi
 
 These intermediaries play a crucial role in connecting Atliq's products with end consumers, ensuring our offerings are accessible to the general public.
 
+# Project Objective
+This project is focused on achieving the following key objectives:
 
-
+## Sales Report
+1.Customer Performance Report:
+   - Create a detailed analysis of customer performance over the years, highlighting sales figures and growth percentages.
+2.Market Performance and Sales Targets Comparison:
+  - Conduct a comprehensive comparison between market performance and sales targets, providing insights into the success of sales strategies.
+3.Top 10 Sold Products:
+  - Focus on both high-performing products to optimize inventory, enhance marketing efforts, and drive strategic product decisions.
